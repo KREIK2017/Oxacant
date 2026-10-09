@@ -1,5 +1,7 @@
 # Oxacant Advertorial — Referenzen und Blockauswahl
 
+Візуальна карта референсів і «Frankenstein map» доступні у файлі `dist/reference-board.html` та після публікації за адресою `/reference-board.html`.
+
 Stand: 8. Oktober 2026
 
 ## Zielbild
